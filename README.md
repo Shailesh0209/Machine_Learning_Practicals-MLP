@@ -16,6 +16,8 @@ contains some of contents
 ## Week 4:
 
 1. w4_L4: [Explore california housing dataset](https://www.kaggle.com/shailx/exploring-california-housing-dataset/edit)
+2. W4_L5: [Linear Regression on California housing dataset](https://www.kaggle.com/shailx/linear-regression-on-california-housing-dataset/edit)
+
 
 ## Week 5:
 
