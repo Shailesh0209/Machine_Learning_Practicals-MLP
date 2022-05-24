@@ -11,11 +11,11 @@ contains some of contents
 
 ## Week 3:
 
-1. w3_L3 [Linear_Regression_demonstration](https://www.kaggle.com/code/shailx/linear-regression-1/edit/run/96091208)
+1. w3_L3: [Linear_Regression_demonstration](https://www.kaggle.com/code/shailx/linear-regression-1/edit/run/96091208)
 
 ## Week 4:
 
-1. w4_L4[Explore california housing dataset](https://www.kaggle.com/shailx/exploring-california-housing-dataset/edit)
+1. w4_L4: [Explore california housing dataset](https://www.kaggle.com/shailx/exploring-california-housing-dataset/edit)
 
 ## Week 5:
 
