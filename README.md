@@ -15,7 +15,7 @@ contains some of contents
 
 ## Week 4:
 
-1.
+1. w4_L4[Explore california housing dataset](https://www.kaggle.com/shailx/exploring-california-housing-dataset/edit)
 
 ## Week 5:
 
