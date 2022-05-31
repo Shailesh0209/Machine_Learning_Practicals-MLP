@@ -21,7 +21,8 @@ contains some of contents
 
 ## Week 5:
 
-1.
+1. W5/L4: [Binary Class Image Classification with Perceptron](https://www.kaggle.com/shailx/binary-class-image-classification-with-perceptron/edit)
+2. 
 
 ## Week 6:
 
