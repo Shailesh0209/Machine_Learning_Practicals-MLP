@@ -1,5 +1,7 @@
 # x_Machine_Learning_Practicals-diploma-IITM
 
+YouTube Playlist by IITM: [Machine Learning Practice](https://www.youtube.com/playlist?list=PLZ2ps__7DhBb3ovNQam2c_WcGeiW9OhQo)
+
 Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ## week 1:
