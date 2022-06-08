@@ -1,5 +1,6 @@
 # x_Machine_Learning_Practicals-diploma-IITM
-contains some of contents 
+
+Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ## week 1:
 1. Project - [Wine_Quality_prediction](https://www.kaggle.com/code/shailx/wine-quality-prediction-end-to-end-ml-projects/edit)
