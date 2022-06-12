@@ -26,19 +26,26 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 1. W5/L4: [Binary Class Image Classification with Perceptron](https://www.kaggle.com/shailx/binary-class-image-classification-with-perceptron/edit)
 2. W5/L5: [Multi Class Image Classification with Perceptron](https://www.kaggle.com/shailx/multi-class-image-classification-with-perceptron/edit)
+3. [swi/pa/ga](https://www.kaggle.com/code/shailx/x-w5-mlp-swi-pa-ga/edit)
 
 ## Week 6:
 
 1. W6_L2: [MNIST Digits Classification using SGDRegressor](https://www.kaggle.com/shailx/mnist-digits-classification-using-sgdregressor/edit)
 2. W6_L6: [Text classification with Naive Bayes Classifier](https://www.kaggle.com/shailx/text-classification-with-naive-bayes-classifier/edit)
+3. [swi/pa/ga](https://www.kaggle.com/code/shailx/x-w6-mlp-swi-aq-pa-ga/edit)
+
 
 ## Week 7:
 
 1.
 
+
+
 ## Week 8:
 
 1.
+
+
 
 ## Week 9:
 
@@ -48,9 +55,13 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 1.
 
+
+
 ## Week 11:
 
 1.
+
+
 
 ## Week 12:
 
