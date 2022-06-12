@@ -30,6 +30,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 ## Week 6:
 
 1. W6_L2: [MNIST Digits Classification using SGDRegressor](https://www.kaggle.com/shailx/mnist-digits-classification-using-sgdregressor/edit)
+2. W6_L6: [Text classification with Naive Bayes Classifier](https://www.kaggle.com/shailx/text-classification-with-naive-bayes-classifier/edit)
 
 ## Week 7:
 
