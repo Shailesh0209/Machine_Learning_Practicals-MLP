@@ -29,7 +29,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 ## Week 6:
 
-1.
+1. W6_L2: [MNIST Digits Classification using SGDRegressor](https://www.kaggle.com/shailx/mnist-digits-classification-using-sgdregressor/edit)
 
 ## Week 7:
 
