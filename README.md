@@ -37,7 +37,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 ## Week 7:
 
-1.
+1. W7_L1: [Softmax Regression with MNIST dataset](https://www.kaggle.com/shailx/softmax-regression-with-mnist-dataset/edit)
 
 
 
