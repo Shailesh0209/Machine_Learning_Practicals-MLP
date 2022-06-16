@@ -40,6 +40,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 1. W7_L1: [Softmax Regression with MNIST dataset](https://www.kaggle.com/shailx/softmax-regression-with-mnist-dataset/edit)
 2. W7_L3: [K Nearest Neighbours with MNIST dataset ](https://www.kaggle.com/shailx/k-nearest-neighbours-with-mnist-dataset/edit)
 3. W7_L4: [KNearestNeighbours(knn) with CalfiorniaHousingdata](https://www.kaggle.com/shailx/knearestneighbours-knn-with-calfiorniahousingdata/edit)
+4. W7_L5: [Large Scale Machine Learning](https://www.kaggle.com/shailx/large-scale-machine-learning/edit)
 
 ## Week 8:
 
