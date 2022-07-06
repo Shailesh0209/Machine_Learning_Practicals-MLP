@@ -44,7 +44,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 ## Week 8:
 
-1.
+1. W8_L2: [Demonstration: SVC on MNIST dataset](https://www.kaggle.com/shailx/demonstration-svc-on-mnist-dataset/edit)
 
 
 
