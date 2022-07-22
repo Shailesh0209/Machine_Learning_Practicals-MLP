@@ -35,7 +35,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 1. W5/L4: [Binary Class Image Classification with Perceptron](https://www.kaggle.com/shailx/binary-class-image-classification-with-perceptron/edit)
 2. W5/L5: [Multi Class Image Classification with Perceptron](https://www.kaggle.com/shailx/multi-class-image-classification-with-perceptron/edit)
-3. extra_code - [x/w5_mlp_swi/pa/ga] (https://www.kaggle.com/code/shailx/x-w5-mlp-swi-pa-ga/edit)
+3. extra_code - [x/w5_mlp_swi/pa/ga](https://www.kaggle.com/code/shailx/x-w5-mlp-swi-pa-ga/edit)
 
 
 
