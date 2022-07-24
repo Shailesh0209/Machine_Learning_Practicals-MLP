@@ -46,8 +46,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 1. W6_L2: [MNIST Digits Classification using SGDRegressor](https://www.kaggle.com/shailx/mnist-digits-classification-using-sgdregressor/edit)
 2. W6_L6: [Text classification with Naive Bayes Classifier](https://www.kaggle.com/shailx/text-classification-with-naive-bayes-classifier/edit)
-3. [swi/pa/ga](https://www.kaggle.com/code/shailx/x-w6-mlp-swi-aq-pa-ga/edit)
-4. extra_code - [x/W6_MLP/swi/aq/pa/ga](https://www.kaggle.com/code/shailx/x-w6-mlp-swi-aq-pa-ga/edit)
+3. extra_code - [x/W6_MLP/swi/aq/pa/ga](https://www.kaggle.com/code/shailx/x-w6-mlp-swi-aq-pa-ga/edit)
 
 
 
