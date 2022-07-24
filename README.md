@@ -96,7 +96,7 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 ## Week 11:
 
 1. W11_L1: [K-means clustering on digit dataset](https://www.kaggle.com/shailx/k-means-clustering-on-digit-dataset/edit)
-
+2. W11_L2: [Hierarchical Agglomerative Clustering (HAC) Algorithm](https://www.kaggle.com/shailx/hierarchicalagglomerativeclustering-hac-algorithm/edit)
 
 
 
@@ -105,7 +105,8 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 
 ## Week 12:
 
-1.
+1. W12_L2: [Multi Layer Perceptron (MLP) Classifier on MNIST dataset](https://www.kaggle.com/shailx/multilayerperceptron-classifier-on-mnist/edit)
+2. W12_L3: [Multi Layer Perceptron (MLP) Regressor on California Housing Dataset](https://www.kaggle.com/shailx/multilayerperceptron-regressor-on-california-data/edit)
 
 
 
