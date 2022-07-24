@@ -90,13 +90,13 @@ Andrew Ng: [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.
 1. W10_L2: [Bagging and Random Forest Classifier on MNIST](https://www.kaggle.com/shailx/bagging-and-random-forest-classifier-on-mnist/edit)
 2. W10_L3: [Bagging and Random Forest Regressor on California Housing Dataset](https://www.kaggle.com/shailx/bagging-randomforestregressor-on-californiahousing/edit)
 3. W10_L5: [AdaBoost and GradientBoost Classifier on MNIST](https://www.kaggle.com/shailx/adaboost-and-gradientboost-classifier-on-mnist/edit)
-
+4. W10_L6: [AdaBoost and GradientBoost Regressor on California Housing](https://www.kaggle.com/shailx/adaboost-and-gradientboost-regressor-on-california/edit)
 
 
 
 ## Week 11:
 
-1.
+1. W11_L1: [K-means clustering on digit dataset](https://www.kaggle.com/shailx/k-means-clustering-on-digit-dataset/edit)
 
 
 
